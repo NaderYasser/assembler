@@ -1,0 +1,7 @@
+
+error::unidentified register name "$s9" in :addi $t0 , $s9 , 8
+ 
+
+
+error::wrong lw expression in: lw $s1 , 8 ($s0
+
